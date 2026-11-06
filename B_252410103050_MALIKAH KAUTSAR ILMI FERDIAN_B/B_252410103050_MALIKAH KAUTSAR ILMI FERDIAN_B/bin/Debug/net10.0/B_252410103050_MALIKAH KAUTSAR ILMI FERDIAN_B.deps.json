@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "B_252410103050_MALIKAH KAUTSAR ILMI FERDIAN_B/1.0.0": {
+        "runtime": {
+          "B_252410103050_MALIKAH KAUTSAR ILMI FERDIAN_B.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "B_252410103050_MALIKAH KAUTSAR ILMI FERDIAN_B/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
